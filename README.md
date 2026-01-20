@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devesh Rajput</h1>
-<h3 align="center">A passionate software developer currently working as a software developer</h3>
+<h3 align="center">A passionate C/C++ developer currently working as a software developer at MyGlamm</h3>
 
 - 🔭 I’m currently working on **a custom bootloader**
 
